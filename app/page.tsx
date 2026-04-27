@@ -4,7 +4,7 @@ import Features from '@/components/features';
 import PainPoints from '@/components/pain-points';
 import FAQ from '@/components/faq';
 import CTA from '@/components/cta';
-import Footer from '@/components/footer';
+
 
 export default function Home() {
   return (
